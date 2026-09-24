@@ -1,0 +1,33 @@
+{
+  "version": "2.9.2",
+  "printer_profile": "Original Prusa MK4S HF0.4 nozzle",
+  "print_profile": "0.20mm STRUCTURAL @MK4S 0.4",
+  "filament_profile": "Prusament PLA @MK4S HF0.4",
+  "layer_height_mm": 0.2,
+  "layers": 5,
+  "sliced_slit_check": [
+    {
+      "z_mm": 0.2,
+      "slit_clearance_mm": 1.0
+    },
+    {
+      "z_mm": 0.4,
+      "slit_clearance_mm": 0.6
+    },
+    {
+      "z_mm": 0.6,
+      "slit_clearance_mm": 0.6
+    },
+    {
+      "z_mm": 0.8,
+      "slit_clearance_mm": 0.6
+    },
+    {
+      "z_mm": 1.0,
+      "slit_clearance_mm": 0.6
+    }
+  ],
+  "slit_open_in_every_layer": true,
+  "supports": false,
+  "stl_sha256": "aa916044c34c564e7c342dfa582e87e11a804e69ba588dcd6e6b4e2db37a29cf"
+}

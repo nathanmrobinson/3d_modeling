@@ -2,6 +2,10 @@
 
 Models for 3D printing on a **Prusa MK4S**.
 
+## Models
+
+- [Pony-style yarn bobbin](models/pony-bobbin/README.md)
+
 ## Repository layout
 
 Put each design in its own directory under `models/`:

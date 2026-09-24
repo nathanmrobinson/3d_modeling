@@ -1,0 +1,17 @@
+{
+  "size_mm_xyz": [
+    25.0,
+    65.0,
+    1.0
+  ],
+  "watertight": true,
+  "consistent_normals": true,
+  "solid_components": 1,
+  "triangles": 628,
+  "volume_mm3": 1303.734,
+  "slit_width_mm_measured_from_stl": 0.6,
+  "eye_open_to_outside": true,
+  "bed_contact_z_mm": 0.0,
+  "physically_printed": false,
+  "stl_sha256": "aa916044c34c564e7c342dfa582e87e11a804e69ba588dcd6e6b4e2db37a29cf"
+}
