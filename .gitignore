@@ -1,0 +1,26 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# CAD application backups and temporary files
+*.FCStd1
+*.FCBak
+*.blend1
+*.blend2
+*.tmp
+
+# Python caches and local environments (for scripted models)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Sliced print jobs are generated for a particular printer and setup.
+# Keep editable sources and intentional STL/3MF exports in version control.
+*.gcode
+*.bgcode

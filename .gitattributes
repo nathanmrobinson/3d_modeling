@@ -1,0 +1,6 @@
+# Keep large mesh and native CAD files out of text diffs.
+*.stl binary
+*.3mf binary
+*.obj binary
+*.FCStd binary
+*.blend binary
